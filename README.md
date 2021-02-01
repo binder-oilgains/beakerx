@@ -4,9 +4,9 @@
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
-
+    
            http://www.apache.org/licenses/LICENSE-2.0
-
+    
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -27,6 +27,13 @@
 [![Anaconda-Server Badge](https://anaconda.org/conda-forge/beakerx/badges/version.svg)](https://anaconda.org/conda-forge/beakerx)
 -->
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-oilgains/beakerx/1.2.0?filepath=StartHere.ipynb)
+
+```
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-oilgains/beakerx/1.2.0?filepath=StartHere.ipynb)
+```
+
+
+
 
 
 BeakerX is a collection of JVM kernels and interactive widgets for
@@ -90,6 +97,7 @@ conda install -c beakerx beakerx_all
 This feature requires all optional packages.
 
 ### Autotranslation from Python to JavaScript and D3
+
 <img width="700" alt="screen shot" src="https://cloud.githubusercontent.com/assets/963093/21077947/261def64-bf2a-11e6-8518-4845caf75690.png">
 This feature requires beakerx_kernel_autotranslation package.
 
